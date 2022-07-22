@@ -1,3 +1,7 @@
+---
+title: FlexDash
+---
+
 FlexDash: A Flexible Web IoT Dashboard
 ======================================
 
@@ -8,7 +12,7 @@ feed it data over a websocket and save its config as a blob on the server and yo
 FlexDash is currently in use with [Node-RED](https://nodered.org/) and in the [SensorGnome](https://docs.motus.org/sensorgnome/) project.
 The Node-RED integration is currently being worked on...
 
-__Documentation: [https://flexdash.github.io/docs/](https://flexdash.github.io/docs/__)
+__Documentation: [https://flexdash.github.io/docs/](https://flexdash.github.io/docs/)__
 
 tl;dr; [quick start](https://flexdash.github.io/docs/quick-start/)
 
