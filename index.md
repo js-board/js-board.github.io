@@ -7,7 +7,7 @@ The Node-RED integration is currently being worked on...
 
 __Documentation: [https://flexdash.github.io/docs/](https://flexdash.github.io/docs/)__
 
-tl;dr; [quick start](https://flexdash.github.io/docs/quick-start/)
+__tl;dr; [quick start](https://flexdash.github.io/docs/quick-start/)__
 
 Repositories:
 - [flexdash](https://github.com/flexdash/flexdash) - the dashboard itself, runs in the browser
