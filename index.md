@@ -1,4 +1,4 @@
-<img src="https://github.com/flexdash/.github/blob/main/Screenshot%202022-07-22%20at%2013-06-25%20WCC.png?raw=true" width="50%" height="50%" align="right">
+<img src="https://github.com/flexdash/.github/blob/main/Screenshot%202022-07-22%20at%2013-06-25%20WCC.png?raw=true" width="75%" height="75%" align="right">
 FlexDash is a dashboard that runs in the browser and is fully self-contained:
 feed it data over a websocket and save its config as a blob on the server and you have an IoT dashboard.
 
