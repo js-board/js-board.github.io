@@ -1,4 +1,4 @@
-<img src="https://github.com/js-board/js-board.github.io/assets/39480/88288fd7-7dd6-4804-ab9e-64719c08acba.png?raw=true" width="50%" height="50%" align="right">
+<img src="https://github.com/js-board/js-board.github.io/assets/39480/88288fd7-7dd6-4804-ab9e-64719c08acba?raw=true" width="50%" height="50%" align="right">
 
 # JS-Board
 
