@@ -1,1 +1,1 @@
-See https://flexdash.github.io
+See https://js-board.github.io
